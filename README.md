@@ -1,2 +1,2 @@
 # Stats-in-SQL
-Basic statistical functions in PostgreSQL using census data
+Working with basic statistical functions in PostgreSQL using census data, following along with the book Practical SQL, Chapter 11.
